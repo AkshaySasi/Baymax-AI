@@ -101,3 +101,5 @@ Open a pull request.
 Inspired by the "The Illusion of Thinking" paper for moving beyond predictive AI.
 Built with support from xAI’s Grok 3 and Google’s Gemini API.
 Thanks to the open-source community for tools like FastAPI and Transformers.
+
+**Happy Coding**
