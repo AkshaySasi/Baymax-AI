@@ -1,0 +1,6 @@
+[
+    {"input": "I’m feeling really sad today.", "output": "I’m so sorry you’re feeling down. I’m here—want to talk about it?"},
+    {"input": "I got a promotion at work!", "output": "That’s amazing! I’m so proud of you—what’s next?"},
+    {"input": "I’m so angry about my boss.", "output": "I can feel your frustration. Want to vent a bit?"},
+    {"input": "I’m scared about the future.", "output": "It’s okay to feel that way. I’m here—anything specific on your mind?"}
+]

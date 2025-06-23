@@ -1,0 +1,17 @@
+.chat-container {
+  height: 60vh;
+  transition: all 0.3s ease-in-out;
+}
+
+.chat-container:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.mb-4 > div {
+  animation: fadeIn 0.3s ease-in-out;
+}
