@@ -1,4 +1,4 @@
-# Baymax.AI - Your Personal Mindcare Companion
+# Baymax.AI -  Emotionally Intelligent Conversational AI Agent
 
 ## Overview
 Baymax.AI is an innovative conversational AI designed to be a compassionate, emotionally intelligent companion. Built using the Gemini 2.5 Flash model from Google, this project aims to provide users with a supportive mindcare experience, adapting and learning from each conversation to offer personalized comfort. Unlike traditional AI chatbots that rely on next-word prediction, Baymax.AI simulates independent thinking, fostering a human-like connection while maintaining strict ethical standards.
